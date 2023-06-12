@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TestHC13": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:53913/graphql",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53913;http://localhost:53914"
+    }
+  }
+}
